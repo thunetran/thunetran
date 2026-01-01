@@ -1,16 +1,26 @@
-## Hi there 👋
+# Thune Tran
 
-<!--
-**thunetran/thunetran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer specializing in embedded Linux, safety-critical avionics, and Yocto/OpenEmbedded development.
 
-Here are some ideas to get you started:
+## Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**OpenEmbedded-Core** — Contributor to the Yocto Project 5.3 (Whinlatter) release  
+- Patch submitted via official mailing list workflow (`git send-email`)
+- Reviewed by maintainers and merged upstream
+- [Mailing list reference](https://lists.openembedded.org/g/openembedded-core/message/219372) | [Release notes](https://docs.yoctoproject.org/next/migration-guides/release-notes-5.3.html)
+
+## Technical Focus
+
+- Embedded Linux (Yocto Project, OpenEmbedded, BitBake)
+- Safety-critical systems (DO-178C, requirements engineering)
+- Architectures: x86, ARM, MIPS, Broadcom SoCs
+- Languages: C, C++, Python, Bash
+
+## Professional Background
+
+- **Boeing** — Senior Software Engineer, Avionics Systems
+- **DZS / Zhone Technologies** — Embedded Linux, Broadband Access Equipment (Fiber/Copper/WiFi)
+
+---
+
+*Note: Many of my contributions are to projects using mailing list workflows (OpenEmbedded, Linux kernel ecosystem) rather than GitHub PRs.*
