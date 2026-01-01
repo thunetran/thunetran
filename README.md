@@ -5,8 +5,9 @@ Senior Software Engineer specializing in embedded Linux, safety-critical avionic
 ## Open Source Contributions
 
 **OpenEmbedded-Core** — Contributor to the Yocto Project 5.3 (Whinlatter) release  
+- OEQA SDK testing improvements: test discovery, manifest validation, package helpers
+- Introduced `TESTSDK_CASE_DIRS` variable to simplify test specification
 - Patch submitted via official mailing list workflow (`git send-email`)
-- Reviewed by maintainers and merged upstream
 - [Mailing list reference](https://lists.openembedded.org/g/openembedded-core/message/219372) | [Release notes](https://docs.yoctoproject.org/next/migration-guides/release-notes-5.3.html)
 
 ## Technical Focus
